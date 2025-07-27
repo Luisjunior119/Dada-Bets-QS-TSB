@@ -31,3 +31,5 @@ O pipeline implementado realiza:
 
 
 ---
+## Imagens do painel:
+<img width="1600" height="3004" alt="Frame 3" src="https://github.com/user-attachments/assets/572ae686-f779-4f71-a1fb-7d7138126d0e" />
